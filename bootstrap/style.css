@@ -1,0 +1,14 @@
+.current {
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.title {
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.p {
+    font-size: 18px;
+    margin-inline: 10px;
+}
